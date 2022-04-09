@@ -14,8 +14,10 @@ This is inspired by an question I was asked in an coding interview
   - It can be used normally like a python dictionary for all the functionalities
   
   - The added functionalities can be accessed using 
+  ```
     - RandomDict.get_random_key()
     - RandomDict.__len__()
+  ```
 
 
 
